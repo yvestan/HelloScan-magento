@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Helloscan_Scan</name>
+    <version>0.9.0</version>
+    <stability>beta</stability>
+    <license uri="http://www.opensource.org/licenses/mit-license.php">MIT</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>HelloScan App for Smartphone</summary>
+    <description>All info on : http://helloscan.mobi</description>
+    <notes>Please report bug on github.com</notes>
+    <authors><author><name>Yves Tannier</name><user>yvestan</user><email>yvestan@gmail.com</email></author></authors>
+    <date>2011-08-25</date>
+    <time>16:12:01</time>
+    <contents><target name="magelocal"><dir name="Helloscan"><dir name="Scan"><dir name="Helper"><file name="Data.php" hash="4c8f3377aef67c53de4532321d9a0b33"/></dir><dir name="controllers"><file name="IndexController.php" hash="999f1d9dd7155158ba3cf30a3a9b9ef1"/></dir><dir name="etc"><file name="config.xml" hash="d590010ceff16c984e7bcc18a0cd9cca"/><file name="system.xml" hash="b1714447896438b0fa9159952ca92a12"/></dir><dir name="src"><file name="Helloscan_Scan.xml" hash="c9d4b712e05dc57030936a919ed415ee"/></dir></dir></dir><dir name="modules"><file name="Helloscan_scan.xml" hash=""/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

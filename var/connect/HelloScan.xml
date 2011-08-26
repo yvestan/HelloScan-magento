@@ -1,0 +1,85 @@
+<_>
+   <form_key>QuFizHCFrtljDuwH</form_key>
+   <name>Helloscan_Scan</name>
+   <channel>community</channel>
+   <version_ids>
+      <version_ids>2</version_ids>
+   </version_ids>
+   <summary>HelloScan App for Smartphone</summary>
+   <description>All info on : http://helloscan.mobi</description>
+   <license>MIT</license>
+   <license_uri>http://www.opensource.org/licenses/mit-license.php</license_uri>
+   <version>0.9.0</version>
+   <stability>beta</stability>
+   <notes>Please report bug on github.com</notes>
+   <authors>
+      <name>
+         <name>Yves Tannier</name>
+      </name>
+      <user>
+         <user>yvestan</user>
+      </user>
+      <email>
+         <email>yvestan@gmail.com</email>
+      </email>
+   </authors>
+   <depends_php_min>5.0.0</depends_php_min>
+   <depends_php_max>6.0.0</depends_php_max>
+   <depends>
+      <package>
+         <name>
+            <name/>
+         </name>
+         <channel>
+            <channel/>
+         </channel>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <files>
+            <files>      </files>
+         </files>
+      </package>
+      <extension>
+         <name>
+            <name>Core</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+      </extension>
+   </depends>
+   <contents>
+      <target>
+         <target>magelocal</target>
+         <target>magelocal</target>
+         <target>magelocal</target>
+      </target>
+      <path>
+         <path/>
+         <path>Helloscan/Scan</path>
+         <path>modules/Helloscan_scan.xml</path>
+      </path>
+      <type>
+         <type>file</type>
+         <type>dir</type>
+         <type>file</type>
+      </type>
+      <include>
+         <include/>
+         <include/>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+         <ignore/>
+         <ignore/>
+      </ignore>
+   </contents>
+</_>
