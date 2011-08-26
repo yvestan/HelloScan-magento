@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<config>
-    <modules>
-        <Helloscan_Scan>
-            <active>true</active>
-            <codePool>local</codePool>
-        </Helloscan_Scan>
-    </modules>
-</config>
